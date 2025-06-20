@@ -98,7 +98,7 @@ aws autoscaling create-auto-scaling-group \
 
 ```
 
-**Creating Scaling Policies
+**Creating Scaling Policies**
 ```
 # Scale out policy
 aws autoscaling put-scaling-policy \
